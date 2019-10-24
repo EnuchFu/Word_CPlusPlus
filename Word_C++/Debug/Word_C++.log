@@ -1,0 +1,27 @@
+﻿生成启动时间为 2019/10/24 16:44:56。
+     1>项目“F:\NXOpen\NXOpen++\Word_C++\Word_C++\Word_C++.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Word_C++.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>d:\visual studio 2013\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 d:\visual studio 2013\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Word_C++.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt My_Word.cpp Word_C++.cpp Word_C++Dlg.cpp
+         Word_C++Dlg.cpp
+         Word_C++.cpp
+         My_Word.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Word_C++.res" Word_C++.rc 
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\NXOpen\NXOpen++\Word_C++\Debug\Word_C++.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Visual Studio 2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\NXOpen\NXOpen++\Word_C++\Debug\Word_C++.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\NXOpen\NXOpen++\Word_C++\Debug\Word_C++.lib" /MACHINE:X86 Debug\Word_C++.res
+         Debug\My_Word.obj
+         Debug\stdafx.obj
+         Debug\Word_C++.obj
+         Debug\Word_C++Dlg.obj
+            正在创建库 F:\NXOpen\NXOpen++\Word_C++\Debug\Word_C++.lib 和对象 F:\NXOpen\NXOpen++\Word_C++\Debug\Word_C++.exp
+         Word_C++.vcxproj -> F:\NXOpen\NXOpen++\Word_C++\Debug\Word_C++.exe
+     1>已完成生成项目“F:\NXOpen\NXOpen++\Word_C++\Word_C++\Word_C++.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.79
